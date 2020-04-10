@@ -35,7 +35,9 @@ Alma |[User Management ](https://ideas.exlibrisgroup.com/forums/308173-alma/filt
 Alma |[Resource Management - Physical ](https://ideas.exlibrisgroup.com/forums/308173-alma/filters/new?category_id=339049 ) | |
 Alma |[Resource Sharing ](https://ideas.exlibrisgroup.com/forums/308173-alma/filters/new?category_id=125284 ) | |
 Primo |[Toutes fonctionnalités](https://ideas.exlibrisgroup.com/forums/308176-primo) | Alexandre |
-Il existe une section dédiée aux demandes d'ajouts de nouvelles collection (KB & index central). Je propose que nous laiisions les établissements assurer leur propre veille sur le sujet.
+
+
+>Il existe une section dédiée aux demandes d'ajouts de nouvelles collection (KB & index central). Je propose que nous laissions les établissements assurer leur propre veille sur le sujet.
                         
 ### Suggestion d'idée
 Sur ce point, il me semble utile de demander aux membres du réseau de passer systématiquement par le SCOOP. Avant de créer une idée il convient : 
