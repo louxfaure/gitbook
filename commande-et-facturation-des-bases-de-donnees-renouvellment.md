@@ -29,6 +29,20 @@ Cliquer sur "Enregistrer et continuer"
 ## Commander
 
 Avec le numéro de bon de commande, aller dans Acquisitions&gt;Commande&gt;Regrouper
+Attacher le devis au BC
+Cliquer sur "Enregistrer & continuer" ou Commander maintenant
+
+## Facturer 
+Prendre le numéro de BC est aller dans Acquisition > Réception & facturation > Facturer
+Créer une facture à partir du commande
+Rechercher le BC
+Supprimer les lignes inutiles
+Modifier la ligne de facture :
+  - Indiquer les intervales de dates d'abonnement 
+  - Ajouter en toute lettre "Année N" dans les informations supplémentaires
+  - Prix : remplacer le prix TTC par le dépense budgétaire réel et "Annuler le montant engagé restant"
+Renseigner le monatnt de TVA = Dépenses budgétaire - Prix HT Facturé
+  
 
 
 
